@@ -1,7 +1,8 @@
 # An-Artificial-Neural-Network
 Implementation of An Artificial Neural Network with Python3.6
 
-#Plan: '\n'
+#Plan:
+
 1.Tensors
 2.Loss(Cost) Functions
 3.Layers

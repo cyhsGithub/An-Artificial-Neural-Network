@@ -2,8 +2,7 @@
 Implementation of An Artificial Neural Network with Python3.6
 
 #Plan:
-
-1.Tensors
+#1.Tensors
 2.Loss(Cost) Functions
 3.Layers
 4.Neural Nets
